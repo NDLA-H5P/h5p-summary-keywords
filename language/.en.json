@@ -39,7 +39,7 @@
           "description": "Set the number of keywords the user has to provide"
         },
         {
-          "label": "Allow the user to exceed the maximum number of keywords",
+          "label": "Allow the user to exceed the maximum number of keywords"
         }
       ]
     },
